@@ -1,0 +1,1 @@
+C:\cs2\NexusUI\bin\Release\net9.0-windows\win-x64\publish\NexusUI.exe
